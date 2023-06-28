@@ -22,5 +22,3 @@ function renderLeads() {
     };
     ulEl.innerHTML = listItems;
 }
-l
-//prueba
